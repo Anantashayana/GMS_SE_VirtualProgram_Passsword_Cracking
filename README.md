@@ -114,5 +114,5 @@ f6a0cb102c62879d397b12b62c092c06:bluered
 
 ## Screenshots
 
-![Password Cracked](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Password Cracked](./password_cracked.png)
 
